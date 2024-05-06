@@ -21,7 +21,7 @@
 
 4. Navigate to the unzipped folder and **choose** the convert-eprime-main folder
 
-   ![](/home/keyboard/Pictures/Screenshot from 2021-04-05 23-15-29.png)
+   ![](/Documentation/select.png)
 
 5. Now, we are set to convert the files to .csv. Code snipped is below
 
@@ -36,11 +36,11 @@
 
    #### The text file and the converted .csv file
 
-   ![](/home/keyboard/Pictures/Screenshot from 2021-04-05 23-22-11.png)
+   ![](/Documentation/eprimetextfile.png)
 
 Converted .csv file
 
-![](/home/keyboard/Pictures/Screenshot from 2021-04-05 23-22-28.png)
+![](Documentation/convertedcsv.png)
 
 #### We can subset this one to get trial accuracy and reaction times using R/Python
 
@@ -75,6 +75,6 @@ for file in filelist:
 
 Just run the code, select multiple text files and press **OK**
 
-![](/home/keyboard/Pictures/Screenshot from 2021-04-06 00-13-38.png)
+![](Documentation/output.png)
 
 # Fin.
