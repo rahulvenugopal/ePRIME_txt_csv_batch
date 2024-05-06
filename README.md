@@ -11,13 +11,13 @@
 1. Download the repository [convert-eprime](https://github.com/tsalo/convert-eprime)
    
 
-   ![](/home/keyboard/Pictures/Screenshot from 2021-04-05 23-11-24.png)
+   ![](Documentation/repo.png)
 
 2. Extract the zipped folder to some location in your system
 
 3. Open spyder :spider_web: and click :heavy_plus_sign: Add path from PYTHONPATH manager
 
-   ![](/home/keyboard/Pictures/Screenshot from 2021-04-05 23-14-06.png)
+   ![](Documentation/path.png)
 
 4. Navigate to the unzipped folder and **choose** the convert-eprime-main folder
 
